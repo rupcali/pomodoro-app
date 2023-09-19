@@ -8,7 +8,6 @@ import math
 # GREEN = "#9bdeac"
 # YELLOW = "#f7f5dd"
 
-
 WHITE = "#F6E6E4"
 PINK = "#e2979c"
 DARK_PINK = "#CA8A8B"
@@ -56,8 +55,8 @@ def count_down(count):
         count_sec = f"0{count_sec}"
     if count_min < 10:
         count_min = f"0{count_min}"
-
     canvas.itemconfig(timer_text, text=f"{count_min}:{count_sec}")
+    
     if count > 0:
         global timer
         timer = window.after(1000, count_down, count-1)
