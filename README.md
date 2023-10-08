@@ -1,15 +1,11 @@
 # pomodoro-app
-This is a pomodoro app with python. Pomodoro is a time management technique: work for 25 minutes, then take a 5-minute break; repeat. After four cycles, take a longer break
-
-
-# Pomodoro Timer with Python and Tkinter
-
 A simple Pomodoro timer application built with Python and the tkinter library.
 
 
 ## Overview
 
 This Pomodoro timer application helps you manage your work and break intervals effectively. It follows the Pomodoro technique, allowing you to work for a set time, take short breaks, and a longer break after a series of work intervals. The timer keeps you on track, and you can easily start and reset it as needed.
+
 
 ## Features
 
@@ -18,6 +14,7 @@ This Pomodoro timer application helps you manage your work and break intervals e
 - Visual cues with color changes and checkmarks.
 - Start, stop, and reset functionality.
 - Supports the Pomodoro technique for time management.
+
 
 ## Usage
 
