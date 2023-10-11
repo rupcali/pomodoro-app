@@ -45,4 +45,4 @@ To run this project, you need Python and the tkinter library installed on your c
 
 ![Screenshot 1](screenshots/pomodoro.png)
 ![Screenshot 2](screenshots/pomodoro_work.png)
-![Screenshot 2](screenshots/pomodoro_break.png)
+![Screenshot 3](screenshots/pomodoro_break.png)
